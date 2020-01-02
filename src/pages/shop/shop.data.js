@@ -1,5 +1,5 @@
 const SHOP_DATA = [
-{
+  {
     id: 1,
     title: 'Hats',
     routeName: 'hats',
@@ -62,8 +62,8 @@ const SHOP_DATA = [
   },
   {
     id: 2,
-    title: 'Shoes',
-    routeName: 'shoes',
+    title: 'Sneakers',
+    routeName: 'sneakers',
     items: [
       {
         id: 10,
