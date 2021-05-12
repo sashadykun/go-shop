@@ -5,10 +5,17 @@
     justify-content: space-between;
     margin-bottom: 25px;
   
-    .logo-container {
-      height: 100%;
-      width: 70px;
+  .logo-container {
+    margin-top: 20px;
+    height: fit-content;
+    width: fit-content;
+   }
+
+    svg, image {
+      height: 50px;
+      width: 75px;
     }
+
   
     .options {
       width: 50%;
